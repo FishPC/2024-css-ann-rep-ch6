@@ -1,0 +1,7 @@
+NOTES:
+--SARs and juvenile population estimates for Snake River groups are for C0 group.
+--C0 SAR Snake River groups in 2001 was assumed to be the same as C1.
+--Chinook SARs do not include 1-salts (i.e., without jacks) but ST SARs do include 1-salts.
+--ALL possible Snake River hatchery ST groups are included in this dataset but they should not all be included in your analysis, due to potential for pseudoreplication. See below for examples. 
+
+--Estimates of WTT & PITPH are for the portion of the hydrosystem that is represented in the SAR estimate. For example, if SAR is LGR-GRA, then WTT is from LGR tailrace to BON (i.e., LGR pool excluded) and PITPH is from LGR-BON (i.e., PITPH at LGR included)
